@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Backend • APIs & Microsserviços • Banco de Dados • Integração de IA</strong>
+  <strong>Desenvolvedor Backend | FinTech & Sistemas Críticos • APIs & Microsserviços • Banco de Dados • Integração de IA</strong>
 </p>
 
 <p align="center">
@@ -27,19 +27,28 @@
 
 <h3>🧠 about me</h3>
 
-Me chamo **Matheus Leonardo Guia**, sou Desenvolvedor Backend focado na construção de arquiteturas robustas e soluções escaláveis.
+Me chamo **Matheus Leonardo Guia**, sou Desenvolvedor Backend com atuação no ecossistema de **sistemas financeiros**, com foco em arquitetura de APIs, persistência de dados, integração de serviços e automação de processos críticos orientados a **escalabilidade e segurança**.
 
-Gosto de transformar problemas complexos em sistemas eficientes que realmente geram impacto.
+Gosto de transformar problemas complexos em sistemas eficientes e resilientes que realmente geram impacto no negócio.
 
-Minha trajetória é impulsionada pela criação de APIs, microsserviços, modelagem de banco de dados e, mais recentemente, pela inovação com a integração de agentes de Inteligência Artificial.
+Minha trajetória é impulsionada pela construção de microsserviços confiáveis, modelagem de banco de dados e pela integração contínua de novas tecnologias e agentes de Inteligência Artificial.
 
 </div>
 
 <br clear="left"/>
 
-> 💡 Acredito que a tecnologia é a ponte entre a complexidade e a solução. 
-> 
-> Construir sistemas eficientes e integrar inteligência não é apenas escrever código, é criar o futuro hoje.
+> 💡 *Acredito que a tecnologia no setor financeiro exige mais do que código: exige precisão, resiliência e a capacidade de transformar regras de negócio complexas em arquiteturas robustas e escaláveis.*
+
+---
+
+### 💼 atuação profissional & impacto
+
+- ⚡ **Arquitetura de APIs REST:** Desenvolvimento e estruturação de APIs com regras de negócio centralizadas, garantindo integridade transacional, consistência operacional e integração eficiente com serviços externos.
+- 🗄️ **Modelagem & Engenharia de Dados:** Gerenciamento e modelagem de bancos de dados relacionais, aplicando boas práticas de consultas, indexação e estruturação para suportar alta escalabilidade e resiliência.
+- 🚀 **Automação & Esteiras (CI/CD):** Implementação de fluxos de automação, orquestração e esteiras com controle rigoroso de versionamento (Git), reduzindo etapas manuais e elevando a segurança do deploy.
+- 🧪 **Qualidade de Software & Testes:** Aplicação de rotinas completas de testes, depuração e documentação técnica, garantindo a alta confiabilidade do código e manutenibilidade a longo prazo.
+- 📊 **Monitoramento & Observabilidade:** Estruturação de rotinas de monitoramento e análise de métricas operacionais para acompanhamento preventivo de incidentes junto à gestão.
+- 🤖 **Inovação & IA:** Pesquisa e integração prática de agentes inteligentes de IA no ciclo de desenvolvimento e automações.
 
 ---
 
@@ -52,6 +61,7 @@ Minha trajetória é impulsionada pela criação de APIs, microsserviços, model
 *(+ Agentes de IA: Antigravity, Kiro, Codex, Claude Code)*
 
 ---
+
 <div align="left">
  
 <img src="assets/student.jpg" width="300" align="right" style="margin-left: 15px; border-radius: 10px;" />
