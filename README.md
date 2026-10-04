@@ -55,7 +55,7 @@ Minha trajetória é impulsionada pela construção de microsserviços confiáve
 ### 💻 tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,git,github,aws,postgresql,flutter,dart,dotnet,sqlite,angular,html,css" /><img src="assets/clickstack.png" width="48" height="48" alt="ClickStack" title="ClickStack" />
+  <img src="https://skillicons.dev/icons?i=python,docker,git,github,aws,postgresql,flutter,dart,dotnet,sqlite,angular,html,css,postman" /><img src="assets/clickstack.png" width="48" height="48" alt="ClickStack" title="ClickStack" />
 </p>
 
 *(+ Agentes de IA: Antigravity, Kiro, Codex, Claude Code)*
