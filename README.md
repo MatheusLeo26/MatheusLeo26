@@ -64,7 +64,7 @@ Minha trajetória é impulsionada pela construção de microsserviços confiáve
 
 <div align="left">
  
-<img src="assets/student.jpg" width="300" align="right" style="margin-left: 15px; border-radius: 10px;" />
+<img src="assets/cap.png" width="150" align="right" style="margin-left: 15px;" />
  
 <h3> 📚 academic background</h3>
 
