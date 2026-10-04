@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Backend | FinTech & Sistemas Críticos • APIs & Microsserviços • Banco de Dados • Integração de IA</strong>
+  <strong>Desenvolvedor Backend Jr | APIs & Microsserviços | Banco de Dados | Integração de IA</strong>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Minha trajetória é impulsionada pela construção de microsserviços confiáve
 ### 💻 tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,git,github,aws,postgresql,flutter,dart,dotnet,sqlite,angular,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,docker,git,github,aws,postgresql,flutter,dart,dotnet,sqlite,angular,html,css" /><img src="assets/clickstack.png" width="48" height="48" alt="ClickStack" title="ClickStack" />
 </p>
 
 *(+ Agentes de IA: Antigravity, Kiro, Codex, Claude Code)*
