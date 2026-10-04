@@ -23,7 +23,7 @@
 ---
 
 <div align="left">
-  <img src="assets/coder.jpg" alt="Matheus Guia" width="200" align="left" style="margin-right: 15px; border-radius: 10px;" />
+  <img src="assets/coder.gif" alt="Matheus Guia" width="200" align="left" style="margin-right: 15px; border-radius: 10px;" />
 
 <h3>🧠 about me</h3>
 
